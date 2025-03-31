@@ -1,0 +1,6 @@
+Flask
+langchain
+langchain-groq
+pydantic
+requests
+python-dotenv

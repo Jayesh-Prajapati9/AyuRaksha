@@ -1,0 +1,2 @@
+serpapi = 769b28d7829d71ecd840322f944986ef045ccef3de256f297bc26982eb815f1d
+groqapi = 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
